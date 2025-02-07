@@ -12,6 +12,6 @@ O projeto consiste em funcionalidades para atender os requisitos. O código foi 
 
 ## Como Usar
 
-1. Baixe o arquivo JAR/ZIP do repositório.
+1. Baixe o arquivo JAR do repositório.
 2. Importe o projeto para o Eclipse ou outro IDE de sua preferência.
 3. Compile e execute o projeto conforme necessário.
