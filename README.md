@@ -4,7 +4,7 @@ Este repositório contém o código fonte do projeto **"Teste Prático - Iniflex
 
 ## Descrição
 
-O projeto consiste em [descrever brevemente a funcionalidade principal do projeto, por exemplo: "um sistema de gerenciamento de tarefas" ou "uma aplicação de controle de estoque"]. O código foi exportado como um arquivo JAR/ZIP e pode ser facilmente importado para o Eclipse ou outro ambiente de desenvolvimento Java.
+O projeto consiste em funcionalidades para atender os requisitos. O código foi exportado como um arquivo JAR/ZIP e pode ser facilmente importado para o Eclipse ou outro ambiente de desenvolvimento Java.
 
 ## Tecnologias Utilizadas
 
