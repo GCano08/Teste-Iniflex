@@ -15,11 +15,3 @@ O projeto consiste em [descrever brevemente a funcionalidade principal do projet
 1. Baixe o arquivo JAR/ZIP do repositório.
 2. Importe o projeto para o Eclipse ou outro IDE de sua preferência.
 3. Compile e execute o projeto conforme necessário.
-
-## Contribuindo
-
-Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma *issue* ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [Nome da Licença]. Consulte o arquivo LICENSE para mais informações.
